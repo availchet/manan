@@ -1,3 +1,3 @@
 #manan
 
-Website designed for manan - comuter club of ymcaust
+Website designed for manan - computer club of ymcaust
